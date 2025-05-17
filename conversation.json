@@ -1,0 +1,38 @@
+[
+    {
+        "user": "Hi! I'm starting to plan a vacation and could use some help.",
+        "agent": "Of course! When are you looking to travel?"
+    },
+    {
+        "user": "Probably late June or early July. I have around 10 days off work.",
+        "agent": "Great. Any destinations you’re considering?"
+    },
+    {
+        "user": "I’m leaning toward Thailand. I’ve seen pictures of the beaches in Krabi — they look amazing.",
+        "agent": "Nice choice! Have you been to Southeast Asia before?"
+    },
+    {
+        "user": "No, but I’ve traveled a lot in Europe. My last trip was to Spain — I loved the food and the relaxed vibe.",
+        "agent": "Good to know! Are you more interested in beaches, cities, or cultural sites in Thailand?"
+    },
+    {
+        "user": "A bit of everything — I’d like to relax on the beach but also explore some temples and try local street food.",
+        "agent": "Sounds like a perfect mix. Do you usually travel solo or with others?"
+    },
+    {
+        "user": "Usually with my partner. We both enjoy active trips, but also like having a few slow days to unwind.",
+        "agent": "Understood. What’s your budget range for this trip?"
+    },
+    {
+        "user": "Ideally under $2,500 for both of us, including flights and accommodation.",
+        "agent": "Got it. Are there any food or activity preferences we should keep in mind?"
+    },
+    {
+        "user": "We’re both vegetarian, and we love cooking classes — we try to take one in every country we visit.",
+        "agent": "That’s awesome! Would you prefer hotels or more local stays like guesthouses or Airbnbs?"
+    },
+    {
+        "user": "Probably a mix. We like comfort but also enjoy places with a local feel — nothing too touristy if we can help it.",
+        "agent": "Thanks! I’ll start putting together some personalized suggestions."
+    }
+]
